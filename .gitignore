@@ -1,0 +1,19 @@
+*.db
+*.DS_Store
+
+# Vim
+.*sw[pon]
+tags
+
+# Emacs
+\#*#
+TAGS
+nbproject/
+static/*
+
+# Sublime Text CodeIntel config
+.codeintel/*
+
+# gulp
+javascript/chat.js
+stylesheet/chat.css
